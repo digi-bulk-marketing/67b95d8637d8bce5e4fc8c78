@@ -1,9 +1,14 @@
 # Lead Bomber
 
-- Rebranding ID: 67b95d8637d8bce5e4fc8c78
-- User ID: 675d8dd15c2f265883810a36
-- App name: Lead Bomber
-- Product name: Button Sender
+Lead Bomber by Viral Your Ad.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/d0358b1e-988a-4834-acf1-0d3f51f16da9.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/d0358b1e-988a-4834-acf1-0d3f51f16da9.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/67b95d8637d8bce5e4fc8c78/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Lead Bomber** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/67b95d8637d8bce5e4fc8c78/releases/latest) and reinstall.
